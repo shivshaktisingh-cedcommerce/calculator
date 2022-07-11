@@ -1,0 +1,24 @@
+#main{
+   margin-top:5vw;
+    width:100%;
+    background-color: grey;
+    padding:2vw;
+}
+table{
+    margin:auto;
+    width:80%;
+  background-color: powderblue;
+   
+}
+button{
+    width:100%;
+    height:7vw;
+    border:none;
+}
+input{
+    width:99%;
+    height:5vw;
+    border:none;
+    outline:none;
+
+}
